@@ -1,11 +1,16 @@
 _repo: The-Frightful-Ones_66428
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66428-h/images/cover.jpg
 creator:
   author:
     agent_name: Maples, Richard
     gutenberg_agent_id: '38442'
     url: http://www.gutenberg.org/2009/agents/38442
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66428#The-Frightful-Ones
 gutenberg_issued: '2021-09-30'
 identifiers:
   gutenberg: '66428'
